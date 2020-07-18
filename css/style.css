@@ -41,9 +41,33 @@ table {
 }
 
 .container {
-    padding: 5px;
+    padding: 25px;
+    margin: 25px;
 }
+
 .card {
     padding: 30px;
     margin: auto;
+}
+
+.media {
+    background-color: rgb(84, 190, 176);
+    padding: 25px;
+    margin: 25px;
+}
+
+.jumbotron {
+    background-color: rgb(157, 202, 198);
+    padding: 15px;
+    margin: 15px;
+}
+
+#carouselExampleIndicators {
+    margin: 25px;
+    padding: 15px;
+}
+
+.input-group{
+    margin: auto;
+    padding: 5px;
 }
