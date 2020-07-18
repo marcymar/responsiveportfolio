@@ -47,7 +47,8 @@ table {
 
 .card {
     padding: 30px;
-    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .media {
@@ -60,14 +61,20 @@ table {
     background-color: rgb(157, 202, 198);
     padding: 15px;
     margin: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 #carouselExampleIndicators {
     margin: 25px;
     padding: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
-.input-group{
+.input-group {
     margin: auto;
     padding: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
