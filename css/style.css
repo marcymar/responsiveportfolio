@@ -43,3 +43,7 @@ table {
 .container {
     padding: 5px;
 }
+.card {
+    padding: 30px;
+    margin: auto;
+}
