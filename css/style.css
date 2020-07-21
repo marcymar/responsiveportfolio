@@ -88,6 +88,13 @@ table {
     margin-left: 7%;
 }
 
+#socials {
+    padding: 25px;
+    margin: 25px;
+    max-width: 100%;
+    height: 100%;
+}
+
 @media only screen and (max-width: 1024px) {
     .card {
         padding: 15px;
@@ -117,6 +124,6 @@ table {
         max-width: 100%;
         height: auto;
     }
+}
 
-    }
 }
