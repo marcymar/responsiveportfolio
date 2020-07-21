@@ -83,9 +83,8 @@ table {
 
 } */
 
-#contactform {
+.form-group {
     width: 100%;
-    
 }
 
 #socials {
@@ -96,12 +95,16 @@ table {
 }
 
 #sticky-footer {
-    flex-shrink: none;  
+    flex-shrink: none;
     bottom: 0;
     width: 100%;
     height: auto;
     margin-top: 10px;
     position: sticky;
+}
+
+.navbar {
+    width: 100%
 }
 
 @media only screen and (max-width: 1024px) {
