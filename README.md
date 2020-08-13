@@ -6,7 +6,11 @@
 
 My favorite aspect of the webpage is the Navbar, like the other elements on the page I utilized **Bootstrap.**  Of course I also used **HTML** and some **CSS** elements for formatting.  
 
-The margins ~~don't quite match up when going from a desktop to mobile view~~, on either side of each element stays the same as you switch views! 
+The margins on either side of each element stays the same as you switch views! 
 > The margins defintely gave me the most trouble. 
+
+**Edit:**
+After the first project I updated the portfolio page by removing one of the dummy cards and replacing it with information pertaining to the deployed app.  Here's a screenshot reflecting that: 
+![](assets/project1screencap.png)
 
 
